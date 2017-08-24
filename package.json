@@ -1,0 +1,29 @@
+{
+  "name": "sharon-han",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RayYHan/sharon-han.git"
+  },
+  "author": "Ray Y Han",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RayYHan/sharon-han/issues"
+  },
+  "homepage": "https://github.com/RayYHan/sharon-han#readme",
+  "dependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "express": "^4.15.4",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "webpack": "^3.5.5"
+  }
+}
